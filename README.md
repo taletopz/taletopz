@@ -1,7 +1,8 @@
+# tale 👻 
 <img width="900" height="400" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
 
 
-# tale 👻    
+   
 nome: Gustavo  
 estudando: 2º ano do ensino médio  
 curso técnico: Manufatura Digital - SENAI
