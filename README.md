@@ -1,12 +1,12 @@
 
-# tale 👻 
+# **TALE** 👻 
 <img width="900" height="400" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
 
 
    
-nome: Gustavo  
-estudando: 2º ano do ensino médio  
-curso técnico: Manufatura Digital - SENAI
+## nome: Gustavo  
+## estudando: 2º ano do ensino médio  
+## curso técnico: Manufatura Digital - SENAI
 
 <img width="300" height="300" alt="neutro" src="https://github.com/user-attachments/assets/645d7df8-e6d1-48b2-a45a-93535a732831" align="right" />
 
