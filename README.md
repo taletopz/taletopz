@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="omori header.jpg" alt="Meu Banner" width="100%">
-</p>
+<img width="1200" height="581" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
+
 
 # tale 👻    
 nome: Gustavo  
