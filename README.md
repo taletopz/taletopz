@@ -1,7 +1,7 @@
 
-<img width="900" height="400" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
+<img width="1200" height="600" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=500&color=F7F7F7&center=true&width=600&lines=You+loved+her%2C+and+you+killed+her.;+143;People+like+you+don't+deseve+to+live.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=500&color=F7F7F7&center=true&width=800&height=80&lines=You+loved+her%2C+and+you+killed+her.;+143;People+like+you+don't+deseve+to+live.)](https://git.io/typing-svg)
 
 <img width="400" height="400" alt="neutro" src="https://github.com/user-attachments/assets/645d7df8-e6d1-48b2-a45a-93535a732831" align="right" />
 
