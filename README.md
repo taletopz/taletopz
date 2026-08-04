@@ -1,5 +1,5 @@
 
-<img width="1050" height="450" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
+<img width="1000" height="400" alt="omori_gif" src="https://github.com/user-attachments/assets/1bf430e1-9cc2-4298-9a77-198a23a3dc15" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2000&pause=500&color=F7F7F7&center=true&width=800&height=80&lines=You+loved+her%2C+and+you+killed+her.;+143;People+like+you+don't+deseve+to+live.)](https://git.io/typing-svg)
 
