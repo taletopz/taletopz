@@ -7,7 +7,11 @@
 
 ---
 
-</td> <td width="300"> <img width="300" src="https://github.com/user-attachments/assets/400e9b69-e484-4440-bb7d-4ee81c7ed831" /> </td> </tr> </table>
+<td width="300">
+<img width="300" src="https://raw.githubusercontent.com/taletopz/images/main/lain_mini.png" />
+</td>
+</tr>
+</table>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
