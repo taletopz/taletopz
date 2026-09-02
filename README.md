@@ -13,7 +13,7 @@
 </td>
 <td valign="top">
 
-<img width="3000" src="https://skillicons.dev/icons?i=php,python,html,css,c,linux" />
+<img width="10000000" src="https://skillicons.dev/icons?i=php,python,html,css,c,linux" />
 
 </td>
 </tr>
